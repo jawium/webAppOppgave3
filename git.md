@@ -9,3 +9,4 @@ git pull
 git merge master
 git checkout master
 git merge development
+Inviterte en medstudent til å skape merge conflict ("patricbj") og resolvet denne.
